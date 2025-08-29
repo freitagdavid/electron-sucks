@@ -1,39 +1,13 @@
 # Awesome List Template
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 > A curated list of awesome resources, tools, libraries, and more.
 
 ## Contents
 
 - [Chat](#chat)
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Frontend Development](#frontend-development)
-- [Backend Development](#backend-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Higher Education](#higher-education)
-- [Events](#events)
-- [Testing](#testing)
-- [Miscellaneous](#miscellaneous)
 
 ## Chat
 
@@ -54,7 +28,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## License
 
-This project is licensed under the CC0-1.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
